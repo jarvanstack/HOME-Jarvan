@@ -32,19 +32,19 @@ address:
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: 重庆邮电大学
+directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Always closed'
-  - 'Always closed'
-appointment_url: 'no appointment url'
+  - 'Monday 10:00 to 13:00'
+  - 'Wednesday 09:00 to 10:00'
+appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: twitter name
+    name: DM Me
     link: 'https://twitter.com/Twitter'
   - icon: skype
     icon_pack: fab
-    name: Skype name
+    name: Skype Me
     link: 'skype:echo123?call'
   - icon: keybase
     icon_pack: fab
