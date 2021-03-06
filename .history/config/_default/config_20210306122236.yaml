@@ -5,7 +5,7 @@
 
 title: 半亩方塘 # Website name
 baseurl: 'https://bmft-tech.netlify.app/' # Website URL
-copyright: 'Copyright @ 半亩方塘知识分享 蜀ICP备2021004630号' # Footer text, e.g. '© {year} Me'
+copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
